@@ -34,3 +34,22 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+
+.venv/
+venv/
+ENV/
+.env
+*.db
+*.sqlite3
+node_modules/
+dist/
+dist-ssr/
+*.local
+.eslintcache
+.stylelintcache
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
